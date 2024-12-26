@@ -12,3 +12,4 @@ C:\Users\User\Desktop\C#\MohirDEV\basic_all_tasks\obj\Debug\net8.0\refint\basic_
 C:\Users\User\Desktop\C#\MohirDEV\basic_all_tasks\obj\Debug\net8.0\basic_all_tasks.pdb
 C:\Users\User\Desktop\C#\MohirDEV\basic_all_tasks\obj\Debug\net8.0\basic_all_tasks.genruntimeconfig.cache
 C:\Users\User\Desktop\C#\MohirDEV\basic_all_tasks\obj\Debug\net8.0\ref\basic_all_tasks.dll
+C:\Users\User\Desktop\C#\MohirDEV\basic_all_tasks\obj\Debug\net8.0\basic_all_tasks.sourcelink.json
