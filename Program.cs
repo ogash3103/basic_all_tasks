@@ -54,5 +54,3 @@ System.Console.WriteLine($"Hozirgi yilgacha: {kunlar} kun utdi");
 
 
 
-
-// task 2 end
